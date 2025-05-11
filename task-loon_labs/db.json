@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "ea30",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "favorites": [
+        {
+          "id": 1233069,
+          "title": "Exterritorial",
+          "poster_path": "/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg",
+          "release_date": "2025-04-29",
+          "vote_average": 6.62
+        }
+      ]
+    }
+  ],
+  "searches": [
+    {
+      "id": "604d",
+      "query": "pink",
+      "genre": "",
+      "year": "",
+      "rating": "",
+      "timestamp": "2025-05-10T17:09:00.203Z"
+    },
+    {
+      "id": "4296",
+      "query": "apple",
+      "genre": "",
+      "year": "",
+      "rating": "",
+      "timestamp": "2025-05-10T17:08:14.381Z"
+    }
+  ]
+}
